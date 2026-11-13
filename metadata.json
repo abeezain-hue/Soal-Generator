@@ -1,0 +1,6 @@
+{
+  "name": "MAN 1 Jember — Generator Soal TKA",
+  "description": "Platform generator soal standar Tes Kemampuan Akademik (TKA) untuk MAN 1 Jember dengan input kisi-kisi lengkap, kunci jawaban dan pembahasan otomatis, kustomisasi tema sekolah, serta ekspor DOC, Moodle XML, PDF, Moodle, dan paket Google Classroom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
